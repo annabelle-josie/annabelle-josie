@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annabelle-josie
-- 👀 I’m a student studying Computer Science at A-Level
-- 🌱 I hope to become a Software Engineer in industry!
+- 👀 I’m an Undergraduate Student studying Computer Science at the University of Exeter
+- 🌱 I hope to become a Software Engineer in Industry!
 
 <!---
 annabelle-josie/annabelle-josie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
