@@ -6,7 +6,7 @@ Pronouns: She/Her
 
 ### Languages
 I've worked with lots of different languages, the ones I use the most are:
-- Python (including ML libraries, Flask and pygame)
+- Python (including Flask, pygame and various ML libraries)
 - Java
 - React.js (along with HTML, CSS and Javascript)
 
