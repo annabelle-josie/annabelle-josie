@@ -5,9 +5,13 @@ I’m a final-year undergraduate student studying Computer Science at the Univer
 Pronouns: She/Her
 
 **Languages**: Java, Python, C, TypeScript, JavaScript, SQL, Haskell
+
 **Frameworks & Development**: Spring Boot, React, HTML/CSS, REST APIs, OpenAPI/Swagger
+
 **Testing**: JUnit, Mockito, Cucumber (Test Driven Development), Jest
+
 **Cloud & DevOps**: Google Cloud Platform, Kubernetes, Jenkins, Harness, Dynatrace
+
 **Tools**: Git, GitHub, Jira
 
 <!---
